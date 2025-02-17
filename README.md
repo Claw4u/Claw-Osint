@@ -29,7 +29,7 @@ Selamat datang di Claw-OSINT, alat **OSINT** (Open Source Intelligence) sumber t
 
 Jalankan alat ini dengan perintah berikut:
     ```bash
-    python clawosint.py [options]
+    python Osint.py [options]
     ```
 
 ### Opsi yang Tersedia:
